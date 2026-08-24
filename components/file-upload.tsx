@@ -237,7 +237,7 @@ export function FileUpload({
                         key={index}
                         className="flex items-center gap-2 p-2 border rounded-md"
                       >
-                        <FileIcon className="h-5 w-5 text-muted-foreground flex-shrink-0" />
+                        <FileIcon className="h-5 w-5 text-muted-foreground shrink-0" />
 
                         <div className="flex-1 min-w-0">
                           <div className="text-sm font-medium truncate">
